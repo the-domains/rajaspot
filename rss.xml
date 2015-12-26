@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Rajaspot - Search.Find.Complete]]></title>
+        <description><![CDATA[Rajaspot - Search.Find.Complete]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 26 Dec 2015 18:09:22 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Rajaspot team]]></title>
+            <description><![CDATA[<article><h1>Rajaspot team</h1><p>Rajaspot adalah sebuah perusahaan yang bergerak dalam bidang jasa untuk memasarkan produk/jasa di suatu area tertentu</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0438c7539e8d3594afcce920c39ffbf07cf05035.jpg"></article>]]></description>
+            <link>undefinedrajaspot-team/index.html</link>
+            <guid isPermaLink="false">555c51a5-a036-4b48-865e-bd9d9e8b197f</guid>
+            <pubDate>Sat, 26 Dec 2015 18:09:22 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
