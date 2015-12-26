@@ -1,7 +1,7 @@
 name: Rajaspot
 favicon: null
 layout_spectrum: 0.3810835292097181
-typography_spectrum: 0.43555258377455175
+typography_spectrum: 0.50596
 title: Rajaspot - Search.Find.Complete
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#ffffff'
+    - '#000000'
+    - '#ed1b24'
+    - '#00adef'
+    - '#606060'
   brandStrength: 0.8543031387962401
   lightness: 0.632475875550881
   saturation: 0.20806121500208974
